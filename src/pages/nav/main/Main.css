@@ -1,0 +1,61 @@
+.topNav{
+    background-color:#00BC5B;
+    height: 50px;
+    width:100%;
+    padding: 0 10px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+
+}
+.topNav .option{
+    font-size: 16px;
+    color: #fff;
+    width: 70px;
+}
+.topNav .search{
+    font-size: 16px;
+    height: 35px;
+    border-radius: 18px;
+    background: #fff;
+    margin-right: 5px;
+    flex:1;
+    display: flex;
+    align-items: center;
+}
+.topNav .address{
+    width: 35px;
+    height:35px;
+
+}
+.title{
+    margin: 10px 0 0 0;
+    padding: 0;
+    padding-left: 30px;
+    background: #fff;
+    display: flex;
+   
+    
+}
+.guessLike{
+    padding: 10px 20px;
+    display: flex;
+    background-color: #fff;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.guessLike .tileLeft{
+    display: flex;
+    align-items: center;
+
+}
+.guessLike .tileLeft  img{
+  width: 80px;
+  height: 120px;
+}
+.guessLike .tileLeft .sTitle{
+    margin-left: 30px;
+    /* display: flex */
+
+}

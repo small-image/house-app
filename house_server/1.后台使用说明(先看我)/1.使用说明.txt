@@ -1,0 +1,11 @@
+本后台采用PHP制作
+
+
+1. 打开PHP_STUDY, 把服务器目录设置为house_server文件夹, 并启动
+
+2. 打开Navicat数据库软件, 新建数据库名字就叫house(就叫house!!!就叫house!!!!)
+
+3. 打开新建的house数据库, 点击右上方查询, 复制house.sql所有内容进查询并运行, 创建house表
+			                再复制user.sql所有内容进查询并运行, 创建user表
+
+4. 正常访问后台接口即可, 详情查阅接口文档

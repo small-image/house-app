@@ -1,0 +1,21 @@
+.top{
+    background-color: #5AC9FC;
+}
+.top .headerTop{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+.top .headerTop .topImg{
+    display: flex;
+}
+.top .headerTop .topImg img{
+    width:80px;
+    height: 100px;
+    margin-right:20px;
+   
+}
+.topdetail{
+    display: flex;
+    justify-content: space-evenly;
+}
